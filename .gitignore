@@ -103,9 +103,6 @@ Thumbs.db
 #Font awesome
 *.svg
 
-
-*.pdf
-
 .assets/
 .docs/
 .images/
